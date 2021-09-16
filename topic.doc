@@ -1,0 +1,9 @@
+1. Dom
+2. script tag
+3. stop line by debugger 
+4.  exploring Dom( document object model) 
+5.  i)document.getElementByTagName("p")
+    ii) document.getElementByClass("class")
+    iii) document.getElementByID("id")
+6. javaScript style (like css)
+
